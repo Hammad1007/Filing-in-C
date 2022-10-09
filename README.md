@@ -1,6 +1,6 @@
 # Filing-in-C
 This repository is all about file handling in C language, a little bit different than the filing in C++
-
+***
 Write a code in C which performs the following functions:
 
 1) Reads the text file Input_File.txt and displays its data on terminal.
