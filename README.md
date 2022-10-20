@@ -3,6 +3,7 @@ This repository is all about file handling in C language, a little bit different
 
 Write a code in C which performs the following functions:
 
+
 1) Reads the text file Input_File.txt and displays its data.
 
 2) Write only the integers from the Input_File.txt file to another file which will be created at runtime.
