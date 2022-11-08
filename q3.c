@@ -11,8 +11,7 @@ int main() {
   fp1 = fopen("file2.txt", "w");
   if(fp == NULL) {
     printf("File doesnot exist.\n");
-  }
-  
+  } 
   do {
     ch = fgetc(fp);
     if(ch >= 33 && ch <= 64) {
