@@ -12,5 +12,3 @@ Write a code in C which performs the following functions:
 4) Invert all the words in Input_File.txt file which contain one or more vowels and write the complete content (with inverted and non-inverted words) into another file which will be created at run time. For example ‘computer’ will be inverted to ‘retupmoc’.
 
 
-
-
