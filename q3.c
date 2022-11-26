@@ -1,4 +1,5 @@
 // Question 3
+
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -21,3 +22,4 @@ int main() {
   fclose(fp);
   fclose(fp1);
 }
+
