@@ -22,4 +22,3 @@ int main() {
   fclose(fp);
   fclose(fp1);
 }
-
