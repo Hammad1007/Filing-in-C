@@ -22,8 +22,7 @@ int main() {
   fclose(fp);
   fclose(fp1);
 }
-
-
+// code ends here
 
 
 
