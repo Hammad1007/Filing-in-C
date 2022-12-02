@@ -16,3 +16,5 @@ int main() {
   } while(ch != EOF);  // reaches till the end of file is reached
   fclose(fp);
 }
+
+
