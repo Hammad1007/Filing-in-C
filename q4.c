@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <cmath>
 
+//find the length of the array
 int len(char arr[1000]) {
   int len;
   while(arr[i] != '\0') {
