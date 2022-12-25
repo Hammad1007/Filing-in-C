@@ -3,7 +3,7 @@ This repository is all about file handling in C language, a little bit different
 
 Write a code in C which performs the following functions:
 
-Tasks: 
+**Tasks:**
 
 1) Reads the text file Input_File.txt and displays its data.
 
