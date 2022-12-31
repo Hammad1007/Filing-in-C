@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-
 // Main Starts here
 int main() {
   FILE *fp;  // file type pointer
